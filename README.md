@@ -31,8 +31,8 @@ L’objectif est d'**analyser les transactions pour identifier et comprendre les
    - Nombre et Montant des Transactions frauduleuses : 492
    - Nombre et Montant des Transactions non frauduleuses : 284 315
 <p align="center">
-   <img width="500" height="687" alt="Capture d&#39;écran 2025-11-02 115439" src="https://github.com/user-attachments/assets/dc4186b4-b11a-4393-a67a-e880e8e80eac" />
-   <img width="500" height="683" alt="Capture d&#39;écran 2025-11-02 115334" src="https://github.com/user-attachments/assets/765970ce-cafc-43d4-b1ba-52629cf604c4" />
+   <img width="495" height="687" alt="Capture d&#39;écran 2025-11-02 115439" src="https://github.com/user-attachments/assets/dc4186b4-b11a-4393-a67a-e880e8e80eac" />
+   <img width="495" height="683" alt="Capture d&#39;écran 2025-11-02 115334" src="https://github.com/user-attachments/assets/765970ce-cafc-43d4-b1ba-52629cf604c4" />
 
 </p>
 
