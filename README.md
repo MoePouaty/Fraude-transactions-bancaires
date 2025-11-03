@@ -47,7 +47,10 @@ L’objectif est d'**analyser les transactions pour identifier et comprendre les
    
 
 3. **Création du dashboard Power BI**  
-   - Import des données nettoyées depuis PostgreSQL  
+   - Import des données nettoyées depuis PostgreSQL
+   - Conversion du type de données dans Power Query afin d’assurer la bonne interprétation des valeurs dans Power BI
+     <img width="1757" height="937" alt="Power query" src="https://github.com/user-attachments/assets/7155f530-9b13-417f-b903-4f558f32469a" />
+
    - Visualisation des transactions par type et montant  
    - KPI pour le suivi des fraudes et indicateurs clés  
    - Graphiques interactifs pour faciliter l’analyse métier
